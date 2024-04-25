@@ -6,4 +6,12 @@
 <h3 align="center"> 🦝Hecho por Fernando Aguiñaga </h2>
 ✅ Proyecto Terminado <br/>
 
-🖥️ Tecnología usada: Java - Gson
+🖥️ Tecnología usada: Java
+## Descripción
+Programa simple para hacer conversión de diferentes divisas entre sí (USD, MXN, JPY) por medio de una API para obtener los valores actuales de las monedas
+
+## Cómo usar
+▪️ Ejecuta el programa <br/>
+▪️ Selecciona una de las conversiones de moneda <br/>
+▪️ Introduce la cantidad a convertir <br/>
+▪️ El programa mostrará el resultado de la conversión <br/>
